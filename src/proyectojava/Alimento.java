@@ -24,6 +24,7 @@ public abstract class Alimento implements Serializable {
 
     // Getters y setters
 
+    
     public String getCodigo() {
         return codigo;
     }
