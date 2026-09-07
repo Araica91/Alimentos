@@ -14,6 +14,8 @@ public class AlimentoNatural extends Alimento implements Serializable {
         this.fechaCreacion = fechaCreacion;
     }
 
+    
+    
     // Getters y setters
 
     public String getTipoAlimento() {
